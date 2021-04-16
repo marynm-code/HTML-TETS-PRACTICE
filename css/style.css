@@ -1,0 +1,9 @@
+table,th, td{
+border: 1px solid black;
+background-color: burlywood;
+border-collapse: collapse;
+}
+th {
+    text-align: right;
+}
+
